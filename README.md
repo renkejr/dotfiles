@@ -4,7 +4,7 @@ A collection of configuration files.
 
 ## Neovim
 
-My initial attempt at creating a [Neovim](https://neovim.io/) configuration.
+My initial attempt at creating a [Neovim](https://neovim.io/) configuration using [lua](https://www.lua.org/).
 
 ### Requirements
 
